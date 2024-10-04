@@ -8,7 +8,7 @@ app = FastAPI()
 
 # CORS Configuration
 origins = [
-    "http://localhost:3000",  # React frontend
+    "https://node-based-pipelineui-1.onrender.com/",  # React frontend
     # Add other origins if necessary
 ]
 
